@@ -1,0 +1,19 @@
+body{
+    background-image: url('kepek/hatter.jpg');
+    color:#003399;
+}
+table{
+    padding: 15px;
+    background-color:#eeedcc ;
+    width: 700px;
+    margin: auto;
+}
+.jobbra{
+      text-align: right;
+}
+.jobbratet{
+    float: left;
+}
+.kakas{
+    float: right;
+}
